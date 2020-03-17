@@ -1,8 +1,6 @@
-#code
-##C
-*practice
-*quiz
-##Java
-*practice
-##python
-*practice
+#My first blog post
+##code
+*C
+*Java
+*python
+
